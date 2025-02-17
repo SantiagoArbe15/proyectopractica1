@@ -7,6 +7,6 @@ Proyecto planeacion de software
 5.  crear un proyecto
 6.  Crear una tarea en kanvas
    ---
-   7 forking
-   8 invitados
-   9 Issues
+7 forking
+8 invitados
+9 Issues
